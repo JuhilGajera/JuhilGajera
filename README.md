@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**JuhilGajera/JuhilGajera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React-Native Developer | Front-End Mobile & Web Developer | JavaScript Enthusiast.
 
-Here are some ideas to get you started:
+🧑‍🎓  B.Tech graduate from Parul University.
+🖥️  React-Native developer.
+📱  Proficient in front-end development for mobile and web applications.
+📒  Strong knowledge of JavaScript.
+⚙️  Passion for learning new technologies.
+🥼  Expertise in Git and version control.
+🧑‍🏫  Team player with leadership skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me
