@@ -10,4 +10,3 @@ React-Native Developer | Front-End Mobile & Web Developer | JavaScript Enthusias
 🥼  Expertise in Git and version control.
 🧑‍🏫  Team player with leadership skills.
 
-Connect with me
